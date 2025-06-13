@@ -1,0 +1,15 @@
+# C/C++ output
+*.o
+*.obj
+*.out
+*.elf
+
+# Backup files
+*.bak
+
+# CppUTest framework
+cpputest/
+cpputest_/
+cpputest__/
+*.tar.gz
+*.zip
