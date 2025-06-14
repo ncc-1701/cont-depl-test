@@ -1,15 +1,17 @@
-# C/C++ output
+# Compiled object files
+*.slo
+*.lo
 *.o
 *.obj
-*.out
+
+# Compiled binary files
 *.elf
+*.uf2
+*.bin
 
 # Backup files
 *.bak
 
-# CppUTest framework
-cpputest/
-cpputest_/
-cpputest__/
+# Archives framework
 *.tar.gz
 *.zip

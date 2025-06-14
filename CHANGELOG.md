@@ -1,6 +1,16 @@
 # CHANGELOG.md
 
-## 0.0.1 (2023-02-11)
+## 0.0.2 (2025-06-26)
+
+Fixes:
+
+ - Update .gitignore file and delete all binaries from repo.
+ 
+Features:
+
+ - None
+
+## 0.0.1 (2025-06-26)
 
 Fixes:
 
